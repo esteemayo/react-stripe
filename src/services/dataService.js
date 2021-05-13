@@ -1,4 +1,3 @@
-import React from "react";
 import { FaCreditCard, FaBook, FaBriefcase } from "react-icons/fa";
 
 const sublinks = [
